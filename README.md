@@ -1,1 +1,1 @@
-Here are some scripts I wrote. They're largely Python and Lua.
+Here are some scripts I wrote. The vast majority of them are in Python, with some Lua sprinkled in.
